@@ -46,8 +46,17 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.logotype,
+
 .footer-logotype {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+.logotype {
   color: #4d5ae5;
   font-size: 18px;
   font-family: Raleway, sans-serif;
@@ -116,7 +125,7 @@ body {
 .team {
   background-color: #f4f4fd;
 }
-.team-list-text {
+.team-list {
   background-color: #ffffff;
 }
 .team-list-title {
