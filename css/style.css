@@ -14,7 +14,6 @@ body {
 .portfolio-title {
   color: #2e2f42;
   font-size: 36px;
-  font-weight: 700;
   text-transform: capitalize;
   text-align: center;
   line-height: 1.11;
@@ -37,7 +36,6 @@ body {
 }
 .menu-link {
   color: #2e2f42;
-  font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -49,9 +47,7 @@ body {
 .menu-contakt-link {
   color: #434455;
   font-family: Roboto;
-  font-style: normal;
-  font-size: 16px;
-  font-weight: 400;
+
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -71,13 +67,11 @@ body {
   color: white;
   font-size: 56px;
   text-align: center;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
 .hero-button {
   color: white;
-  font-size: 16px;
 
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -105,8 +99,6 @@ body {
 .team-list-text,
 .portfolio-list-text,
 .footer-text {
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -119,9 +111,7 @@ body {
 }
 
 /* ======PORTFOLIO====== */
-.portfolio {
-  background-color: ffffff;
-}
+
 /* ======FOOTER====== */
 .page-footer {
   background-color: #2e2f42;
