@@ -5,7 +5,7 @@
   text-decoration: none;
 }
 body {
-  font-family: 'Roboto', 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -25,7 +25,7 @@ body {
 .footer-logotype {
   color: #4d5ae5;
   font-size: 18px;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 1.17;
@@ -59,6 +59,9 @@ body {
 .menu-contakt-link:focus {
   color: #404bbf;
 }
+.contact {
+  font-style: normal;
+}
 
 /* ======HERO====== */
 .hero {
@@ -75,7 +78,8 @@ body {
 .hero-button {
   color: white;
   font-size: 16px;
-  font-family: inherit;
+
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -118,6 +122,9 @@ body {
 }
 
 /* ======PORTFOLIO====== */
+.portfolio {
+  background-color: ffffff;
+}
 /* ======FOOTER====== */
 .page-footer {
   background-color: #2e2f42;
